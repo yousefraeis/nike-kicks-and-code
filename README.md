@@ -35,8 +35,6 @@ To get started with this project locally, follow these simple steps:
 ## 🌐 Live Demo
 Experience the live demo [here](https://nike-kicks-and-code.vercel.app).
 
-## 🎉 Acknowledgements
-A special shoutout to *JavaScript Mastery* for their excellent tutorials that inspired this project.
 
-## 📄 License
-This project is licensed under the MIT License.
+## 🎉 Acknowledgements 
+A special shoutout to **Adrian Hajdin** and his YouTube channel, **JavaScript Mastery**, for their exceptional tutorials that inspired this project. Be sure to check out their channel for valuable insights into JavaScript and web development!
