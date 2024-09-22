@@ -17,11 +17,11 @@ To get started with this project locally, follow these simple steps:
 
 1. Clone the repository:
    bash
-   git clone [YOUR_REPO_LINK]
+   git clone https://github.com/yousefraeis/nike-kicks-and-code.git
    
 2. Navigate into the project directory:
    bash
-   cd [PROJECT_NAME]
+   cd nike-kicks-and-code
    
 3. Install the necessary dependencies:
    bash
@@ -33,7 +33,7 @@ To get started with this project locally, follow these simple steps:
    
 
 ## 🌐 Live Demo
-Experience the live demo [here](YOUR_LIVE_DEMO_LINK).
+Experience the live demo [here](https://nike-kicks-and-code.vercel.app).
 
 ## 🎉 Acknowledgements
 A special shoutout to *JavaScript Mastery* for their excellent tutorials that inspired this project.
