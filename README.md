@@ -16,21 +16,21 @@ Welcome to my *Nike-Inspired Landing Page* project! This application showcases s
 To get started with this project locally, follow these simple steps:
 
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/yousefraeis/nike-kicks-and-code.git
-   
+   ```
 2. Navigate into the project directory:
-   bash
+   ```bash
    cd nike-kicks-and-code
-   
+   ```
 3. Install the necessary dependencies:
-   bash
+   ```bash
    npm install
-   
+   ```
 4. Start the development server:
-   bash
+   ```bash
    npm start
-   
+   ```
 
 ## 🌐 Live Demo
 Experience the live demo [here](https://nike-kicks-and-code.vercel.app).
